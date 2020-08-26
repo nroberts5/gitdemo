@@ -7,3 +7,4 @@ if __name__ == '__main__':
 	print("Adjustment #1")
 	print("Adjustment #2")
 	x = [1,2,3,4,5,6,7,8,9,10]
+	# The features have been merged
