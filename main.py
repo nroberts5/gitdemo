@@ -2,4 +2,6 @@
 
 if __name__ == '__main__':
 	print("Hello World!")
-	print("This is a new feature!\nAdjustment #1\nAdjustment #2")
+	print("This is a new feature!")
+	print("Adjustment #1")
+	print("Adjustment #2")
